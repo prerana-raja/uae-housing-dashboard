@@ -45,7 +45,6 @@ Rule: KPIs are always **medians of asking prices**, never transaction prices. Lo
 See columns in `uae_housing_clean.csv`: `listing_id, price_aed, area_sqft, price_per_sqft, bedrooms, bedroom_label, bathrooms, property_type, location, project_name, furnishing, completion_status, handover, handover_year, handover_quarter, price_band, dq_flag`.
 
 ## Key findings
-_Fill in after building the charts. Starting points from my analysis:_
 - Median asking price is about AED 1.82M and median price per sq ft about AED 1,670.
 - Dubai Harbour (~AED 4,300/sqft), Palm Jumeirah (~3,700) and Downtown (~3,200) are the most expensive areas with 30+ listings; International City (~790) is the cheapest.
 - JVC has the most listings (372) with median ~AED 1,450/sqft; Business Bay is second with 311.
