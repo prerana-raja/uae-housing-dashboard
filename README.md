@@ -2,7 +2,7 @@
 
 An interactive Looker Studio dashboard analysing ~3,400 Dubai residential sale listings: pricing, price per sq ft, and ready vs off-plan supply by area.
 
-**Live dashboard:** _paste your Looker Studio share link here_
+**Live dashboard:** https://datastudio.google.com/reporting/83b6bc61-b92f-4aa3-877a-b07685d5424a
 **Tools:** Looker Studio, Python (pandas) for cleaning, Google Sheets as data source
 **Data:** Kaggle "UAE Real Estate / Housing" listings dataset (Dubai, sale listings, asking prices)
 
